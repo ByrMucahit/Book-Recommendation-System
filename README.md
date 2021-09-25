@@ -4,6 +4,17 @@
 # Description
 Book Recommendation System offers book based on you have choosen books previous.
 
+# Test
+we consider have choosen Harry Potter and Half- Blood Prince. 
+
+![choosen-book](https://user-images.githubusercontent.com/62469567/134760275-c4daafb8-7fd3-42aa-97a4-c4cbdfc8adad.PNG)
+
+Machine learning algorithm offers books such as belove;
+
+![Offered-book](https://user-images.githubusercontent.com/62469567/134760729-f10dd388-c019-4445-8027-db13009b5871.PNG)
+
+
+
 # Documentations
 - https://www.tensorflow.org/api_docs
 - https://keras.io/
